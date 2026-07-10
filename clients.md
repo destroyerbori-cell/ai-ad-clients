@@ -2,7 +2,7 @@
 
 Living CRM for Jeremiah Ramos Media. Update this file whenever a client's stage, terms, or next step changes — this is the source of truth the daily morning digest reads from.
 
-Last updated: 2026-07-09
+Last updated: 2026-07-10
 
 ## Pipeline stages used here
 `prospect-researched` → `prospect-contacted` → `offer-sent` → `negotiating` → `signed` → `onboarding` → `active` → `renewal` → `churned`
@@ -11,7 +11,7 @@ Last updated: 2026-07-09
 
 ### MBK Mobile Detailing & Pressure Washing, LLC (Gainesville, FL) — owner Ray
 - **Stage:** offer-sent, awaiting reply (as of 2026-07-09)
-- **Deal offered:** Get Customers package — $2,000 flat / 3 months (website + ads). Split payment $800 to start, then $600/mo months 2–3. Ad spend separate, $300–400/mo, client-funded. Rollout: FB+IG months 1–2 → TikTok+Google months 3–4. Month-4-free guarantee if no solid new customer traffic by end of month 3.
+- **Deal offered (updated 2026-07-10):** $400 first month, then $600/mo continuing — contingent on Ray seeing results. Ad spend separate, $300–400/mo, client-funded. Rollout: FB+IG months 1–2 → TikTok+Google months 3–4.
 - **Next step:** Follow-up call (relaxed check-in, not a chase — "what are you thinking?" then go quiet). Do NOT start any onboarding work until contract is signed in DocuSign AND first payment ($800) is received.
 - **If he signs:** onboarding sequence is fully scripted — Day 1 (dashboard/site setup), Day 2 (brand assets/logo), Day 3 (ad accounts + UTM), Day 4 (first 4 creatives), Day 5 (launch), Days 6–7 (monitor + recap).
 
